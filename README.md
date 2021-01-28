@@ -1,6 +1,6 @@
 # OpenDOS
 All companies seem to be busy making GUI operating systems because they're big and they have a lot to lose.
-But what if I make DOS? A have absolutely nothing to lose!
+But what if I make DOS? I have absolutely nothing to lose!
 # info
 OpenDOS commands are regular batch commands, but the only commands available at the 21.1 (1.0!) release are:
 
