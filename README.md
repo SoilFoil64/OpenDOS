@@ -1,8 +1,7 @@
 # OpenDOS
-All companies seem to be busy making GUI operating systems because they're big and they have a lot to lose.
-But what if I make DOS? I have absolutely nothing to lose!
+The active and open-source DOS
 # info
-OpenDOS commands are regular batch commands, but the only commands available at the 21.1 (1.0!) release are:
+OpenDOS commands are regular batch commands, but the only commands available at the 21.1 (1.0) release are:
 
 CLS            Clears the screen.
 ECHO           Displays messages.
